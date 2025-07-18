@@ -19,7 +19,7 @@ Currently, I am diving into the realm of programming and technology. I'm studyin
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PacketBase](https://img.shields.io/badge/PacketBase-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
