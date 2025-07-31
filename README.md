@@ -33,11 +33,11 @@ Currently, I am diving into the realm of programming and technology. I'm studyin
 
 ## Top Projects
 
-As I am in the early stages of my GitHub journey, I currently do not have any public repositories, only the private one for my school. However, I am excited to contribute to open-source projects and build my portfolio soon!
+As I am in the early stages of my GitHub journey, i only have a few project to set in "public and the private one for my school. I've been remaking the game wordle for myself and my mother, and she loves it so far! However, I am excited to contribute to open-source projects and build my portfolio soon!
 
 ## Recent Activity
 
-As I am just starting out, I don't have recent activity to showcase yet. Stay tuned for updates as I engage more with the GitHub community!
+I  recently put two repos in public mode. Stay tuned for updates as I engage more with the GitHub community!
 
 ## Certifications
 
@@ -47,8 +47,8 @@ As I am just starting out, I don't have recent activity to showcase yet. Stay tu
 
 Here are my key GitHub stats:
 
-- **Public Repositories:** 0
-- **Followers:** 0
-- **Following:** 1
+- **Public Repositories:** 4
+- **Followers:** 6
+- **Following:** 33
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathildeBillardMarceau&show_icons=true&count_private=true&hide_title=true&theme=radical)
