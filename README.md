@@ -33,7 +33,7 @@ Currently, I am diving into the realm of programming and technology. I'm studyin
 
 ## Top Projects
 
-As I am in the early stages of my GitHub journey, i only have a few project to set in "public and the private one for my school. I've been remaking the game wordle for myself and my mother, and she loves it so far! However, I am excited to contribute to open-source projects and build my portfolio soon!
+As I am in the early stages of my GitHub journey, i only have a few project to set in public, and the private one for my school. I've been remaking the game wordle for myself and my mother, and she loves it so far! However, I am excited to contribute to open-source projects and build my portfolio soon!
 
 ## Recent Activity
 
