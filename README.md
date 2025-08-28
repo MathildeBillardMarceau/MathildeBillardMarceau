@@ -27,7 +27,7 @@ Currently, I am diving into the realm of programming and technology. I'm studyin
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Penpot_grey)
+
 
 
 
