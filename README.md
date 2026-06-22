@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Mathilde Billard Marceau, an enthusiastic developer with a passion for coding and creating innovative solutions. Let's connect and explore the world of technology together!  I love to learn!
+I'm Mathilde Billard Marceau, an enthusiastic developer. I love to learn!
 
 ## About Me
 
-Currently, I am diving into the realm of programming and technology. I'm studying at o'clock school and also y my own, because i am so curious. While I am still building my portfolio, I am eager to learn and grow in this field. Although I do not have a company affiliation yet, I am excited about the opportunities that lie ahead.
+I am diving into the realm of programming and technology. While I am still building my portfolio, I am eager to learn and grow in this field.
 
 ## Skills & Technologies
 
@@ -59,13 +59,12 @@ Currently, I am diving into the realm of programming and technology. I'm studyin
 
 As I am in the early stages of my GitHub journey, i only have a few project to set in public, and the private one for my school. I've been remaking the game wordle for myself and my mother, and she loves it so far! However, I am excited to contribute to open-source projects and build my portfolio soon!
 
-## Recent Activity
-
-I  recently put two repos in public mode. Stay tuned for updates as I engage more with the GitHub community!
 
 ## Certifications
 
 - [Digistart](https://certificate.bcdiploma.com/check/6AE1AABA549E21F974415E4F9C980C9BE2EF52F5F46BD93C3C45806ECE58C7C7SG4xYzRHT1BmNFhTQWtpZkEyU253RnRMcWZDbEFqSGVvdUdRZkJhR0dGK0srclJ0) - Konexio, 2024
+
+- Currently doing the [RGPD Atelier](https://atelier-rgpd.cnil.fr/) of la CNIL - 2026
 
 ## GitHub Stats
 
